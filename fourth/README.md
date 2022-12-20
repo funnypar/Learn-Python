@@ -1,15 +1,15 @@
 ## Lessons Learned
 
-In this exercice we want to solve the first exercice of "Python for everybody" :
+In this exercice we want to solve the second exercice of "Jadi course" :
 
 Question :
 
 🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨
 
-Write a program which prompts the user for a Celsius temperature,convert the temperature to Fahrenheit, and print out the converted temperature.
+Write a program which prompts the average of user's numbers ,and print out it. If user entered "-1" program stop and calculate the average !!! 
 
 🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨
 
 Answer :
 
-Look at the second.py 😊
+Look at the fourth.py 😊
