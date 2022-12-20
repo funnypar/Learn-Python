@@ -3,7 +3,6 @@ import random
 #Mopano function ***************************************************************
 def game(name):
     pcAnswer = random.randint(1,99)
-    print(pcAnswer)
     print("Okay ",name, " Let's Goooooo!!!!\n\n")
     userAnswer = int(input("Please Enter your guess 👽:  \n"))
     i = 5
