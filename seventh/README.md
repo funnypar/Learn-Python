@@ -6,10 +6,10 @@ Question :
 
 🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨
 
-Write a game🎮 which pc choose a number in range(1,99) and user must guess the number ! User just has 5 life 😊. Try to make your game beautiful 👽🤪
+Write a program that can know which number is Prime !!! and if the number is not a prime, tell for which numbers is not prime !
 
 🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨
 
 Answer :
 
-Look at the sixth.py 😊
+Look at the seventh.py 😊
