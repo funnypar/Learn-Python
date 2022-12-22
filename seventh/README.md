@@ -1,6 +1,6 @@
 ## Lessons Learned
 
-In this exercice we want to solve the third exercice of "Jadi course" :
+In this exercice we want to solve the fourth exercice of "Jadi course" :
 
 Question :
 
